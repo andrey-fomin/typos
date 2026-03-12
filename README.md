@@ -61,6 +61,11 @@ Or use [Pacman](https://wiki.archlinux.org/title/pacman) to install:
 $ sudo pacman -S typos
 ```
 
+Or use Docker:
+```console
+$ docker pull crateci/typos:latest
+```
+
 ## Getting Started
 
 Most commonly, you'll either want to see what typos are available with
